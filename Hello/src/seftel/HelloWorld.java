@@ -9,7 +9,7 @@ package seftel;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("hello world");
+		System.out.println("alright stop, collaborate and listen-ice is back with my brand new invention");
 		
 
 	}
